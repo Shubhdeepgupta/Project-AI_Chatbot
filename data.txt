@@ -1,4 +1,4 @@
-Main menu
+Main menu,
 
 WikipediaThe Free Encyclopedia
 Search Wikipedia
@@ -506,25 +506,25 @@ Over time, the universe and its contents have evolved. For example, the relative
 The more matter there is in the universe, the stronger the mutual gravitational pull of the matter. If the universe were too dense then it would re-collapse into a gravitational singularity. However, if the universe contained too little matter then the self-gravity would be too weak for astronomical structures, like galaxies or planets, to form. Since the Big Bang, the universe has expanded monotonically. Perhaps unsurprisingly, our universe has just the right mass–energy density, equivalent to about 5 protons per cubic metre, which has allowed it to expand for the last 13.8 billion years, giving time to form the universe as observed today.[66][67]
 
 There are dynamical forces acting on the particles in the universe which affect the expansion rate. Before 1998, it was expected that the expansion rate would be decreasing as time went on due to the influence of gravitational interactions in the universe; and thus there is an additional observable quantity in the universe called the deceleration parameter, which most cosmologists expected to be positive and related to the matter density of the universe. In 1998, the deceleration parameter was measured by two different groups to be negative, approximately −0.55, which technically implies that the second derivative of the cosmic scale factor 
-�
+ 
 ¨{\displaystyle {\ddot {a}}} has been positive in the last 5–6 billion years.[68][69]
 
 Spacetime
 Main articles: Spacetime and World line
 See also: Lorentz transformation
 Modern physics regards events as being organized into spacetime.[70] This idea originated with the special theory of relativity, which predicts that if one observer sees two events happening in different places at the same time, a second observer who is moving relative to the first will see those events happening at different times.[71]: 45–52  The two observers will disagree on the time 
-�
+ 
 T between the events, and they will disagree about the distance 
-�
+ 
 D separating the events, but they will agree on the speed of light 
-�
+ 
 c, and they will measure the same value for the combination 
-�
+ 
 2
-�
+ 
 2
 −
-�
+ 
 2
 {\displaystyle c^{2}T^{2}-D^{2}}.[71]: 80  The square root of the absolute value of this quantity is called the interval between the two events. The interval expresses how widely separated events are, not just in space or in time, but in the combined setting of spacetime.[71]: 84, 136 [72]
 
@@ -623,46 +623,46 @@ The relation is specified by the Einstein field equations, a system of partial d
 
 With the assumption of the cosmological principle that the universe is homogeneous and isotropic everywhere, a specific solution of the field equations that describes the universe is the metric tensor called the Friedmann–Lemaître–Robertson–Walker metric,
 
-�
-�
+ 
+ 
 2
 =
 −
-�
+ 
 2
-�
-�
+ 
+ 
 2
 +
-�
+ 
 (
-�
+ 
 )
 2
 (
-�
-�
+ 
+ 
 2
 1
 −
-�
-�
+ 
+ 
 2
 +
-�
+ 
 2
-�
-�
+ 
+ 
 2
 +
-�
+ 
 2
 sin
 2
 ⁡
-�
-�
-�
+ 
+ 
+ 
 2
 )
 ds^{2}=-c^{2}dt^{2}+R(t)^{2}\left({\frac {dr^{2}}{1-kr^{2}}}+r^{2}d\theta ^{2}+r^{2}\sin ^{2}\theta \,d\phi ^{2}\right)
